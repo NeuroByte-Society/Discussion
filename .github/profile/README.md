@@ -26,7 +26,7 @@ Anyone curious about tech, neuroscience, or the future of AI.
 Whether you're a beginner, researcher, or hobbyist — **you're welcome here!**
 
 ## 🌐 Connect With Us
-- 💼 [LinkedIn Page](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn Page](https://www.linkedin.com/company/neurobyte-society)  
 - 🧠 [GitHub Repositories](https://github.com/NeuroByte-Society)  
 - 🗓️ Weekly updates and open calls for collaboration!
 
